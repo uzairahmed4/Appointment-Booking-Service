@@ -1,7 +1,7 @@
 # Appointment-Booking-Service
 
 ## Project Description
-This project is a web-based appointment booking application designed for students to book appointments with career advisors. The application is implemented as a RESTful web service using Java and Spring Boot. Clients can interact with the web service to book, view, and cancel appointments, while career advisors can manage their availability and view their appointments.
+This repository hosts a robust web-based appointment booking application developed in Java using Spring Boot. The application facilitates seamless scheduling of appointments between students and career advisors at a university. Students can book appointments tailored to their degree programme, manage bookings, and cancel when necessary. Career advisors have tools to oversee their schedules, manage availability, and interact effectively with student appointments. Built on RESTful principles, the application ensures efficient and secure communication between clients and the server.
 
 ## Features
 ### Students can:
