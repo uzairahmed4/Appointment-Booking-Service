@@ -8,7 +8,7 @@ Students can:
 - List available appointment slots.
 - Book an appointment.
 - View booked appointments.
-= Cancel appointments.
+- Cancel appointments.
 Career advisors can:
 - View their appointments.
 - Manage their availability (optional feature).
