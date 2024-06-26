@@ -14,7 +14,7 @@ This project is a web-based appointment booking application designed for univers
 - Manage their availability (optional feature).
 
 ## License
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [MIT License](./LICENSE.txt).
 
 ## Contact
 For any questions, feedback, or collaborations, feel free to reach out:
