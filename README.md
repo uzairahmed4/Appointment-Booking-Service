@@ -11,7 +11,7 @@ This project is a web-based appointment booking application designed for univers
 - Cancel appointments.
 ### Career advisors can:
 - View their appointments.
-- Manage their availability (optional feature).
+- Manage their availability.
 
 ## License
 This project is licensed under the [MIT License](./LICENSE.txt).
